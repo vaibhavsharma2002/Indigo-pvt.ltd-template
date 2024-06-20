@@ -1,0 +1,142 @@
+#header{
+    background: linear-gradient(to right, rgb(6, 99, 90),rgb(51, 121, 114));
+    padding: 20px 0px;
+}
+.bi-list{
+    color: aliceblue;
+}
+#header img{
+    margin-right: 10px;
+    border-radius: 5%;
+}
+#header .container-fluid{
+    padding-left: 0px;
+}
+#header ul li a{
+    color: aliceblue;
+}
+
+#banner{
+    padding: 0px 0px;
+    background: linear-gradient(to right, rgb(6, 99, 90),rgb(51, 121, 114));
+}
+#banner p a{
+    text-decoration: none;
+    color:cornflowerblue;
+}
+#banner p{
+    text-align: justify;
+    color: aliceblue;
+}
+#banner h3{
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-style: italic;
+    font-weight: 700;
+    color: rgb(240, 225, 231);
+}
+#banner #banner-logo{
+    border-radius: 50%;
+}
+#services{
+    padding: 20px 0px;
+}
+#services h2{
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-style: italic;
+    font-weight: 700;
+    color: rgb(53, 59, 58);
+}
+#services h5{
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-style: italic;
+    font-weight: 700;
+    color: rgb(53, 59, 58);
+    margin-bottom: 10px;
+}
+#services p{
+    text-align: justify;
+    font-family: "Libre Baskerville", serif;
+    font-style: italic;
+    font-weight: 550;
+    color: rgb(53, 59, 58);
+}
+#services .card{
+    border: none;
+}
+
+#testimonials{
+    padding: 20px 0px;
+}
+#testimonials h2{
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-style: italic;
+    font-weight: 700;
+    color: rgb(53, 59, 58);
+}
+#testimonials h4{
+    margin-top: 9px;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-style: italic;
+    font-weight: 560;
+    color: rgb(53, 59, 58);
+}
+#testimonials h5{
+    margin-top: 9px;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-style: italic;
+    font-weight: 560;
+    color: rgb(53, 59, 58);
+}
+
+#testimonials p{
+   
+    margin-top: 9px;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-style: italic;
+    font-weight: 550;
+    color: rgb(53, 59, 58);
+    text-align: justify;
+}
+
+#contact img{
+    border-radius: 5%;
+}
+#contact table tr {
+    display: inline-block;
+}
+#contact table tr{
+    display: flex;
+}
+#contact{
+    background: linear-gradient(to right, rgb(6, 99, 90),rgb(51, 121, 114));
+    padding: 20px 0px;
+}
+#contact h2{
+    font-family: "Libre Baskerville", serif;
+    font-style: italic;
+    font-weight: 700;
+    color: rgb(240, 225, 231);
+    text-align: center;
+}
+#contact p{
+    color: rgb(240, 225, 230);
+}
+#contact span{
+    color: aquamarine;
+}
+#contact #up-arrow{
+    font-size: 50px;
+}
+#contact #arrow{
+    font-size: 50px;
+    display: inline-block;
+    top: 80%;
+    right: 80%;
+}
